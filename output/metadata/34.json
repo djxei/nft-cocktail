@@ -1,0 +1,31 @@
+{
+  "name": "Cocktail NFT #34",
+  "description": "Generative cocktail NFT",
+  "image": "ipfs://REPLACE_WITH_YOUR_IPFS_HASH/34.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "liquid",
+      "value": "green"
+    },
+    {
+      "trait_type": "glass",
+      "value": "blue1"
+    },
+    {
+      "trait_type": "details",
+      "value": "purple_straw"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "alco",
+      "value": "alco5"
+    }
+  ]
+}

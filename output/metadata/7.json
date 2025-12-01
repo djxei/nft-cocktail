@@ -1,0 +1,31 @@
+{
+  "name": "Cocktail NFT #7",
+  "description": "Generative cocktail NFT",
+  "image": "ipfs://REPLACE_WITH_YOUR_IPFS_HASH/7.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bruise"
+    },
+    {
+      "trait_type": "liquid",
+      "value": "white"
+    },
+    {
+      "trait_type": "glass",
+      "value": "blue2"
+    },
+    {
+      "trait_type": "details",
+      "value": "raspberries"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "alco",
+      "value": "alco45"
+    }
+  ]
+}
