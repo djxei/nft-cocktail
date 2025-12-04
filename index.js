@@ -44,7 +44,7 @@ async function generateOne(id) {
   const metadata = {
     name: `Cocktail NFT #${id}`,
     description: "Generative cocktail NFT",
-    image: `ipfs://REPLACE_WITH_YOUR_IPFS_HASH/${id}.png`,
+    image: `ipfs://bafybeiemt6cl5bnivbgn5d5veiwleo574gk4bvgbnyqjiu2kftv27kpziq/${id}.png`,
     attributes: attributes
   };
 
